@@ -3,7 +3,7 @@
 ---
 ## Cosas sobre mi
 _Tengo 19 años y soy de Campana._
-_Estudio Ingenieria en Sistemas de Informacion en la UTN FRD._
+_Estudio Ingenieria en Sistemas de Informacion en la UTN FRD. Mi numero de legajo es 11745._
 
 ## Hobbies.
 _Amo mirar series, mis favoritas son Vikings y  Prison Break._
